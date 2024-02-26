@@ -1,0 +1,15 @@
+write: backend_outline.md #15e358d5c0efe102dd6f0d840cfc354d
+write: backend_setup_guide.md #22fc74878cc017f1587f5567e2f71ae5
+write: game_logic_and_data_models.md #f64e9f4638fe827014758a9746fba79c
+write: frontend_mockup_plan.md #07de28a893a47428c5b9256caa3b2d69
+write: bitcoinjs_exploration_plan.md #4b0b685e77b52266183a9512a94595b6
+write: database_setup_instructions.md #077580e6b1d03bd0654429de61ac9def
+write: database_schema.sql #072a26fa050e378737205c67ecf0ab45
+write: backend_logic_predictions.md #bfecbe45f7ebf1d7f440c69892a69a61
+write: backend_api_design.md #949c6e4c3563ad36dc857af39383067c
+write: satoshissteaks_frontend/README.md #08e2167ffecebb3afb9185a7911e271f
+write: satoshissteaks_frontend/src/components/MainPage.tsx #273e9b74a5ec6f34f12984976866568e
+write: satoshissteaks_frontend/src/components/PredictionForm.tsx #88d81710f68eb2844fcaa0f92cbeecd8
+write: satoshissteaks_frontend/src/App.tsx #8d214f3f5ccb3e5e2177b70dc8102dd5
+write: backend/apis/predictions/prediction.controller.ts #088eb20f62f144bdd75a35c8fcaf3efc
+write: backend/apis/predictions/prediction.service.ts #45a9141ab5dc409f9ed54edb8c6a74d0
